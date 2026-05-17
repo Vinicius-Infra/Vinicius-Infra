@@ -1,7 +1,7 @@
 # Olá, seja bem-vindo(a)!!
 
 Meu nome é Vinícius e sou um Desenvolvedor e DevOps Engineer, especializado em Java, Kotlin & Go. Com 6 anos de experiência em operações de tecnologia e desenvolvimento de software, estou sempre buscando novas formas de otimizar pipelines DevOps de grande escala e compartilhar descobertas com a comunidade. Sinta-se à vontade para explorar meus repositórios e deixar comentários e sugestões. Juntos, podemos criar soluções melhores e crescer profissionalmente.
-Obrigada pela visita!
+Obrigado pela visita!
 
 ## :telephone_receiver: Contatos
 
@@ -13,12 +13,12 @@ Obrigada pela visita!
 ## :bar_chart: Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinicius-Infra&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Infra&layout=compact&theme=dark&hide_border=true" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinicius-Infra&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Infra&layout=compact&theme=dark&langs_count=7" alt="Linguagens mais usadas" height="180em" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinicius-Infra&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinicius-Infra&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
