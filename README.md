@@ -26,14 +26,15 @@ Obrigado pela visita!
 ## 💻 Projetos recentes
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-Infra&repo=f1-devops-ci-cd&theme=dark" alt="Projeto Pinado 1" height="120em" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-Infra&repo=Vinicius-Infra&theme=dark" alt="Projeto Pinado 2" height="120em" />
+  <a href="https://github.com/Vinicius-Infra/f1-devops-ci-cd">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-Infra&repo=f1-devops-ci-cd&theme=dark&show_owner=true" alt="F1 DevOps CI/CD" height="120em" />
+  </a>
 </p>
 
 <br />
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinicius-Infra&theme=react-dark&bg_color=0d1117&hide_border=false" alt="Gráfico de Contribuição de Linha" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinicius-Infra&theme=react-dark&bg_color=0d1117&hide_border=false" alt="Gráfico de Atividade de Linha" width="100%" />
 </p>
 
 ---
