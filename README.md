@@ -27,7 +27,16 @@ Obrigado pela visita!
 
 <p align="left">
   <a href="https://github.com/Vinicius-Infra/f1-devops-ci-cd">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-Infra&repo=f1-devops-ci-cd&theme=dark&show_owner=true" alt="F1 DevOps CI/CD" height="120em" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-Infra&repo=f1-devops-ci-cd&theme=dark" alt="F1 DevOps CI/CD" height="120em" />
+  </a>
+  <a href="https://github.com/Vinicius-Infra/infrastructure-health-monitor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-Infra&repo=NOME-DO-OUTRO-REPOSITORIO&theme=dark" alt="Projeto Recente 2" height="120em" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/Vinicius-Infra/user-management-service">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-Infra&repo=NOME-DO-TERCEIRO-REPOSITORIO&theme=dark" alt="Projeto Recente 3" height="120em" />
   </a>
 </p>
 
