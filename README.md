@@ -18,7 +18,7 @@ Obrigado pela visita!
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinicius-Infra&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinicius-Infra&theme=dark&v=2" alt="GitHub Streak" />
 </p>
 
 ---
