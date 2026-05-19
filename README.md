@@ -1,6 +1,6 @@
 # Olá, seja bem-vindo(a)!!
 
-Meu nome é Vinícius e sou um Desenvolvedor e DevOps Engineer, especializado em Java, Kotlin & Go. Com 6 anos de experiência em operações de tecnologia e development de software, estou sempre buscando novas formas de otimizar pipelines DevOps de grande escala e compartilhar descobertas com a comunidade. Sinta-se à vontade para explorar meus repositórios e deixar comentários e sugestões. Juntos, podemos criar soluções melhores e crescer profissionalmente.
+Meu nome é Vinícius e sou Desenvolvedor e DevOps Engineer, especializado em Java, Kotlin & Go. Com 6 anos de experiência em operações de tecnologia e development de software, estou sempre buscando novas formas de otimizar pipelines DevOps de grande escala e compartilhar descobertas com a comunidade. Sinta-se à vontade para explorar meus repositórios e deixar comentários e sugestões. Juntos, podemos criar soluções melhores e crescer profissionalmente.
 Obrigado pela visita!
 
 ## :telephone_receiver: Contatos
