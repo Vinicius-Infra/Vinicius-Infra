@@ -12,40 +12,17 @@ Obrigado pela visita!
 
 ## :bar_chart: Estatísticas do GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinicius-Infra&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br&v=2" alt="Estatísticas do GitHub" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Infra&layout=compact&theme=dark&langs_count=7&locale=pt-br&v=2" alt="Linguagens mais usadas" height="180em" />
-</p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=Vinicius-Infra&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br&v=2" alt="Estatísticas do GitHub" height="180em" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Infra&layout=compact&theme=dark&langs_count=7&locale=pt-br&v=2" alt="Linguagens mais usadas" height="180em" /></p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinicius-Infra&theme=dark&locale=pt_BR&v=2" alt="GitHub Streak" />
-</p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinicius-Infra&theme=dark&locale=pt_BR&v=2" alt="GitHub Streak" /></p>
 
 ---
 
 ## 💻 Projetos recentes
 
-<p align="left">
-  <a href="https://github.com/Vinicius-Infra/f1-devops-ci-cd">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-Infra&repo=f1-devops-ci-cd&theme=dark" alt="F1 DevOps CI/CD" height="120em" />
-  </a>
-  <a href="https://github.com/Vinicius-Infra/infrastructure-health-monitor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-Infra&repo=infrastructure-health-monitor&theme=dark" alt="Infrastructure Health Monitor" height="120em" />
-  </a>
-</p>
+<p align="left"><a href="https://github.com/Vinicius-Infra/f1-devops-ci-cd"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-Infra&repo=f1-devops-ci-cd&theme=dark" alt="F1 DevOps CI/CD" height="120em" /></a><a href="https://github.com/Vinicius-Infra/infrastructure-health-monitor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-Infra&repo=infrastructure-health-monitor&theme=dark" alt="Infrastructure Health Monitor" height="120em" /></a></p>
 
-<p align="left">
-  <a href="https://github.com/Vinicius-Infra/user-management-service">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-Infra&repo=user-management-service&theme=dark" alt="User Management Service" height="120em" />
-  </a>
-</p>
-
-<br />
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinicius-Infra&theme=react-dark&bg_color=0d1117&hide_border=false&v=2" alt="Gráfico de Atividade de Linha" width="100%" />
-</p>
-
+<p align="left"><a href="https://github.com/Vinicius-Infra/user-management-service"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-Infra&repo=user-management-service&theme=dark" alt="User Management Service" height="120em" /></a></p>
 ---
 
 ## 🟣 Skills
