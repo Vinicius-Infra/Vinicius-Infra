@@ -28,7 +28,7 @@ Obrigado pela visita!
 
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinicius-Infra&theme=react-dark&bg_color=0d1117&hide_border=false&v=2" alt="Gráfico de Atividade de Linha" width="100%" /></p>
 
----
+----
 
 ## 🟣 Skills
 
