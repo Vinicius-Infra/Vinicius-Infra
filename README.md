@@ -2,7 +2,7 @@
 
 Meu nome é Vinícius, sou desenvolvedor **Java backend** com mais de 5 anos de experiência em sistemas de missão crítica para os setores bancário e de seguros (**Santander, Porto Seguro e Sompo Seguros**). Trabalho com Java, Kotlin e Spring Boot, mensageria com Apache Kafka, cache com Redis, e levo minhas entregas até produção com Docker, Kubernetes/OpenShift e pipelines CI/CD.
 
-Aqui estão meus projetos de estudo: um ecossistema de microsserviços orientado a eventos em Kotlin, Java e Go, e uma esteira CI/CD completa com deploy na AWS e infraestrutura provisionada via Terraform. Fique à vontade para explorar os repositórios e deixar sugestões. Obrigado pela visita!
+Aqui estão meus projetos: um ecossistema de microsserviços orientado a eventos em Kotlin, Java e Go, e uma esteira CI/CD completa com deploy na AWS e infraestrutura provisionada via Terraform. Fique à vontade para explorar os repositórios e deixar sugestões. Obrigado pela visita!
 
 ## :rocket: Destaque profissional
 
