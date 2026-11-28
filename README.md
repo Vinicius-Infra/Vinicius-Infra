@@ -29,11 +29,20 @@ Em projeto para o Santander, desenvolvi sozinho um robô em Java que **reprocess
 
 <p align="left"><a href="https://github.com/Vinicius-Infra/f1-devops-ci-cd"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-Infra&repo=f1-devops-ci-cd&theme=dark" alt="F1 DevOps CI/CD" height="120em" /></a><a href="https://github.com/Vinicius-Infra/infrastructure-health-monitor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-Infra&repo=infrastructure-health-monitor&theme=dark" alt="Infrastructure Health Monitor" height="120em" /></a></p>
 
-<br />
+---
 
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinicius-Infra&theme=react-dark&bg_color=0d1117&hide_border=false&v=2" alt="Gráfico de Atividade de Linha" width="100%" /></p>
+## 🏗️ Arquitetura dos meus projetos
 
-----
+```mermaid
+flowchart LR
+    Client([Cliente]) -->|REST| UMS[user-management-service<br/>Kotlin + Spring Boot]
+    UMS -->|publica evento| Kafka[(Apache Kafka<br/>audit-log-topic)]
+    Kafka -->|consome| AEC[audit-event-consumer<br/>Java + Spring Boot]
+    AEC -->|persiste| PG[(PostgreSQL)]
+    UMS --> PG2[(PostgreSQL)]
+```
+
+---
 
 ## 🟣 Skills
 
